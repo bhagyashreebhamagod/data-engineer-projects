@@ -1,0 +1,7 @@
+id,product,region,sales,month
+1,Phone,North,1000,Jan
+2,Laptop,South,1500,Jan
+3,Tablet,North,800,Feb
+4,Phone,East,1200,Feb
+5,Laptop,West,2000,Mar
+6,Tablet,South,700,Mar
